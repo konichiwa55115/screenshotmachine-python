@@ -10,7 +10,7 @@ def generate_pdf_api_url(customer_key, secret_phrase, options):
   return api_url;
 
 
-customer_key = 'PUT_YOUR_CUSTOMER_KEY_HERE'
+customer_key = 'e00496'
 secret_phrase = '' # leave secret phrase empty, if not needed
 options = {
   'url': 'https://www.google.com', # mandatory parameter
